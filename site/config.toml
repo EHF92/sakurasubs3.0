@@ -65,7 +65,7 @@ pluralizeListTitles = false
 
   paragraph = "The next frontier of cherry blossoms"
 
-  about     = "We fansub stuff in english language."
+  about     = "We fansub stuff in (british) english language."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
