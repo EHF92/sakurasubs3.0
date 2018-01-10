@@ -8,7 +8,7 @@ featured = ""
 featuredpath = ""
 featuredalt = ""
 linktitle = ""
-format = "Android"
+format = "Project"
 link = "#"
 +++
 
