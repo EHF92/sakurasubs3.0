@@ -5,6 +5,8 @@ date = "2018-01-10"
 
 We sub things.
 
+Also, we sub in british english because it's better.
+
 
 Link:
 
