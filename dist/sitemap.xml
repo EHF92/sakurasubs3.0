@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/about/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/projects/overlord-s2/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/releases/overlord-s2-01/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/categories/overlord-2/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/projects/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/releases/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sakurasubs.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
